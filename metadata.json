@@ -1,0 +1,6 @@
+{
+  "name": "InternEval AI - Technical Internship Manager & Evaluator",
+  "description": "Automated technical evaluation of intern submissions against benchmark requirements with structured JSON output and email dispatch drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
